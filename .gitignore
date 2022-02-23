@@ -5,7 +5,6 @@
 /controllers/Checklist.php
 /controllers/Statistic.php
 /controllers/Step.php
-/controllers/Welcome.php
 /models/Bank_model.php
 /models/Checklist_model.php
 /models/Statistic_model.php
