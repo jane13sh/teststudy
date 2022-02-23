@@ -1,1 +1,15 @@
 /config/database.php
+/config/config.php
+/controllers/Bank.php
+/controllers/Bank.php
+/controllers/Checklist.php
+/controllers/Statistic.php
+/controllers/Step.php
+/controllers/Welcome.php
+/models/Bank_model.php
+/models/Checklist_model.php
+/models/Statistic_model.php
+/models/Step_model.php
+/views/bank/
+/views/checklist/
+/.htaccess
